@@ -94,3 +94,7 @@ Code:
 ```
 
 as you can see the code is the same :)
+
+Note that the test code available in VarHandle2PerfTest is not a benchmark per se,
+it just produce assembly code that you can compare.
+
